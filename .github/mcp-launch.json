@@ -1,0 +1,8 @@
+{
+  "setup": [],
+  "command": "node",
+  "args": [
+    "cli.js"
+  ],
+  "env": {}
+}
